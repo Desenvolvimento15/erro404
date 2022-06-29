@@ -3,7 +3,7 @@ html, body {
 }
 html:before, html:after, body:before, body:after {
   content: "";
-  background: linear-gradient(#91b33c,#a2c743);
+  background: linear-gradient(#91b33c,#aec90c);
   border-radius: 50%;
   position: absolute;
   top: 50%;
@@ -15,7 +15,7 @@ html:before, body:before {
 }
 
 html {
-  background: linear-gradient(#91b33c,#a2c743);
+  background: linear-gradient(#91b33c,#aec90c);
   overflow: hidden;
 }
 html:before {
