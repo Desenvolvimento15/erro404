@@ -64,14 +64,14 @@ h1 {
 }
 
 .bubble {
-  background: linear-gradient(#000, rgb(66, 65, 65));
+  background: linear-gradient(#1d1d1b, rgb(66, 65, 65));
   border-radius: 50%;
   box-shadow: 0 30px 15px rgba(0, 0, 0, 0.15);
   position: absolute;
 }
 .bubble:before, .bubble:after {
   content: "";
-  background: linear-gradient(#000, rgb(66, 65, 65));
+  background: linear-gradient(#1d1d1b, rgb(66, 65, 65));
   border-radius: 50%;
   box-shadow: 0 30px 15px rgba(0, 0, 0, 0.15);
   position: absolute;
@@ -137,3 +137,4 @@ h1 {
   bottom: 5vmin;
   left: -25vmin;
 }
+
